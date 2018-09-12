@@ -1,3 +1,4 @@
 ToonBoomAnimationInc PaletteList 1
 palette-library/Splash4 LINK "F:/Animations/Splash4/palette-library/Splash4.plt"
 palette-library/Splash4_pencil_texture LINK "F:/Animations/Splash4/palette-library/Splash4_pencil_texture.plt"
+palette-library/penstyle_opacity LINK "E:/Git Repos/DGM-2620-001/Splash4/palette-library/penstyle_opacity.plt"
