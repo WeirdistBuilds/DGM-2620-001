@@ -3,4 +3,5 @@
  <element id="4" elementName="SplashFront" elementFolder="SplashFront" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="5" elementName="SplashBack" elementFolder="SplashBack" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="SplashBK" elementFolder="SplashBK" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="7" elementName="Highlights" elementFolder="Highlights" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
