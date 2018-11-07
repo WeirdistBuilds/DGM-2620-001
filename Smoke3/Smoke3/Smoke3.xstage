@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Essentials (HarmonyEssentials.exe) version 15.0.5 build 13929 2018-08-13 08:19:50" version="1505" build="13929" creator="harmony">
+<project source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.1 build 12463 2017-04-10 10:58:55" version="1401" build="12463" creator="harmony">
  <elements>
   <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -104,6 +104,20 @@
     <dwg name="99"/>
     <dwg name="100"/>
     <dwg name="101"/>
+    <dwg name="102"/>
+    <dwg name="103"/>
+    <dwg name="104"/>
+    <dwg name="105"/>
+    <dwg name="106"/>
+    <dwg name="107"/>
+    <dwg name="108"/>
+    <dwg name="109"/>
+    <dwg name="110"/>
+    <dwg name="111"/>
+    <dwg name="112"/>
+    <dwg name="113"/>
+    <dwg name="114"/>
+    <dwg name="115"/>
    </drawings>
   </element>
  </elements>
@@ -113,7 +127,6 @@
   <framerate val="24"/>
   <zdragging val="true"/>
   <zOrderCompatibilityWith7_3 val="false"/>
-  <pixelPerModelUnitForVectorLayers val="0.28799999999999998"/>
   <pixelPerModelUnitForBitmapLayers val="0.28800000000000009"/>
   <canvasForBitmapLayers size="3840,2160"/>
   <cameraInSymbols val="true"/>
@@ -121,7 +134,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0955d50b7cd01d03" nbframes="124">
+  <scene name="Top" id="0955d50b7cd01d03" nbframes="123">
    <columns>
     <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="2" id="1"/>
@@ -200,19 +213,33 @@
      <elementSeq exposures="74" val="75" id="1"/>
      <elementSeq exposures="75" val="76" id="1"/>
      <elementSeq exposures="76" val="77" id="1"/>
+     <elementSeq exposures="77" val="102" id="1"/>
      <elementSeq exposures="78" val="90" id="1"/>
+     <elementSeq exposures="79" val="103" id="1"/>
      <elementSeq exposures="80" val="78" id="1"/>
+     <elementSeq exposures="81" val="104" id="1"/>
      <elementSeq exposures="82" val="91" id="1"/>
+     <elementSeq exposures="83" val="105" id="1"/>
      <elementSeq exposures="84" val="79" id="1"/>
+     <elementSeq exposures="85" val="106" id="1"/>
      <elementSeq exposures="86" val="92" id="1"/>
+     <elementSeq exposures="87" val="107" id="1"/>
      <elementSeq exposures="88" val="80" id="1"/>
+     <elementSeq exposures="89" val="108" id="1"/>
      <elementSeq exposures="90" val="93" id="1"/>
+     <elementSeq exposures="91" val="109" id="1"/>
      <elementSeq exposures="92" val="81" id="1"/>
+     <elementSeq exposures="93" val="110" id="1"/>
      <elementSeq exposures="94" val="94" id="1"/>
+     <elementSeq exposures="95" val="111" id="1"/>
      <elementSeq exposures="96" val="82" id="1"/>
+     <elementSeq exposures="97" val="112" id="1"/>
      <elementSeq exposures="98" val="95" id="1"/>
+     <elementSeq exposures="99" val="113" id="1"/>
      <elementSeq exposures="100" val="83" id="1"/>
+     <elementSeq exposures="101" val="114" id="1"/>
      <elementSeq exposures="102" val="96" id="1"/>
+     <elementSeq exposures="103" val="115" id="1"/>
      <elementSeq exposures="104" val="84" id="1"/>
      <elementSeq exposures="106" val="97" id="1"/>
      <elementSeq exposures="108" val="85" id="1"/>
@@ -236,8 +263,8 @@
     <nodeslist>
      <module type="COMPOSITE" name="Composite" pos="0,0,0" publishUnderTab="Composite">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <compositeMode val="compositeBitmap"/>
@@ -255,20 +282,19 @@
      </module>
      <module type="DISPLAY" name="Display" pos="50,50,0" publishUnderTab="Display">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
      </module>
      <module type="WRITE" name="Write" pos="-50,50,0" publishUnderTab="Write">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <exportToMovie val="false"/>
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
-       <movieFormat val="com.toonboom.quicktime.legacy"/>
        <movieAudio/>
        <movieVideo/>
        <movieVideoaudio/>
@@ -288,8 +314,8 @@
      </module>
      <module type="READ" name="Drawing" pos="-65,-50,0" publishUnderTab="Drawing">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -363,13 +389,8 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
