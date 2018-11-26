@@ -1,11 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Essentials (HarmonyEssentials.exe) version 15.0.5 build 13929 2018-08-13 08:19:50" version="1505" build="13929" creator="harmony">
+<project source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.1 build 12463 2017-04-10 10:58:55" version="1401" build="12463" creator="harmony">
  <elements>
   <element id="1" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
     <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
+    <dwg name="54"/>
+    <dwg name="55"/>
+    <dwg name="56"/>
+    <dwg name="57"/>
+    <dwg name="58"/>
+    <dwg name="59"/>
+    <dwg name="60"/>
+    <dwg name="61"/>
+    <dwg name="62"/>
+    <dwg name="63"/>
+    <dwg name="64"/>
+    <dwg name="65"/>
+    <dwg name="66"/>
+    <dwg name="67"/>
+    <dwg name="68"/>
+    <dwg name="69"/>
+    <dwg name="70"/>
+    <dwg name="71"/>
+    <dwg name="72"/>
+    <dwg name="73"/>
+    <dwg name="74"/>
+    <dwg name="75"/>
+    <dwg name="76"/>
+    <dwg name="77"/>
+    <dwg name="78"/>
+    <dwg name="79"/>
+    <dwg name="80"/>
+    <dwg name="81"/>
+    <dwg name="82"/>
+    <dwg name="83"/>
+    <dwg name="84"/>
+    <dwg name="85"/>
+    <dwg name="86"/>
+    <dwg name="87"/>
+    <dwg name="88"/>
+    <dwg name="89"/>
+    <dwg name="90"/>
+    <dwg name="91"/>
+    <dwg name="92"/>
+    <dwg name="93"/>
+    <dwg name="94"/>
+    <dwg name="95"/>
+    <dwg name="96"/>
+    <dwg name="97"/>
+    <dwg name="98"/>
+    <dwg name="99"/>
+    <dwg name="100"/>
+    <dwg name="101"/>
+    <dwg name="102"/>
+    <dwg name="103"/>
+    <dwg name="104"/>
+    <dwg name="105"/>
+    <dwg name="106"/>
    </drawings>
   </element>
   <element id="2" elementName="words" elementFolder="words" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -134,6 +237,7 @@
   <element id="3" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+    <dwg name="2"/>
    </drawings>
   </element>
   <element id="4" elementName="Set" elementFolder="Set" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -148,7 +252,6 @@
   <framerate val="24"/>
   <zdragging val="true"/>
   <zOrderCompatibilityWith7_3 val="false"/>
-  <pixelPerModelUnitForVectorLayers val="0.28800000000000009"/>
   <pixelPerModelUnitForBitmapLayers val="0.28800000000000009"/>
   <canvasForBitmapLayers size="3840,2160"/>
   <cameraInSymbols val="true"/>
@@ -158,8 +261,31 @@
  <scenes>
   <scene name="Top" id="095d462670b00442" nbframes="311">
    <columns>
-    <column type="0" name="Rough" display="false" displayOrder="4" width="100" anonymous="true" id="1">
-     <elementSeq exposures="10" val="3" id="1"/>
+    <column type="0" name="Rough" displayOrder="4" width="100" anonymous="true" id="1">
+     <elementSeq exposures="3" val="8" id="1"/>
+     <elementSeq exposures="4" val="7" id="1"/>
+     <elementSeq exposures="5" val="6" id="1"/>
+     <elementSeq exposures="7" val="57" id="1"/>
+     <elementSeq exposures="8" val="58" id="1"/>
+     <elementSeq exposures="9" val="59" id="1"/>
+     <elementSeq exposures="10" val="60" id="1"/>
+     <elementSeq exposures="11" val="61" id="1"/>
+     <elementSeq exposures="12" val="62" id="1"/>
+     <elementSeq exposures="13" val="63" id="1"/>
+     <elementSeq exposures="14" val="64" id="1"/>
+     <elementSeq exposures="16" val="82" id="1"/>
+     <elementSeq exposures="17" val="81" id="1"/>
+     <elementSeq exposures="18" val="80" id="1"/>
+     <elementSeq exposures="19" val="85" id="1"/>
+     <elementSeq exposures="20" val="83" id="1"/>
+     <elementSeq exposures="21" val="84" id="1"/>
+     <elementSeq exposures="24" val="66" id="1"/>
+     <elementSeq exposures="25,33" val="67" id="1"/>
+     <elementSeq exposures="26" val="75" id="1"/>
+     <elementSeq exposures="27,31-32" val="74" id="1"/>
+     <elementSeq exposures="28" val="77" id="1"/>
+     <elementSeq exposures="29" val="76" id="1"/>
+     <elementSeq exposures="30" val="78" id="1"/>
     </column>
     <column type="1" name="11SecClub_November_Competition" displayOrder="2" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
      <soundSequence startFrame="1" stopFrame="305" name="11SecClub_November_Competition.wav" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="12.689704895019531">
@@ -287,9 +413,7 @@
      <elementSeq exposures="276-280" val="118" id="2"/>
      <elementSeq exposures="281-285" val="119" id="2"/>
     </column>
-    <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="3">
-     <elementSeq exposures="10" val="1" id="3"/>
-    </column>
+    <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="3"/>
     <column type="0" name="Set" displayOrder="3" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-33" val="1" id="4"/>
     </column>
@@ -304,8 +428,8 @@
     <nodeslist>
      <module type="COMPOSITE" name="Composite" pos="0,0,0" publishUnderTab="Composite">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <compositeMode val="compositeBitmap"/>
@@ -323,20 +447,19 @@
      </module>
      <module type="DISPLAY" name="Display" pos="50,50,0" publishUnderTab="Display">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
      </module>
      <module type="WRITE" name="Write" pos="-50,50,0" publishUnderTab="Write">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <exportToMovie val="false"/>
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
-       <movieFormat val="com.toonboom.quicktime.legacy"/>
        <movieAudio/>
        <movieVideo/>
        <movieVideoaudio/>
@@ -356,8 +479,8 @@
      </module>
      <module type="READ" name="Drawing" pos="0,0,0" publishUnderTab="Drawing">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -431,13 +554,8 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -465,8 +583,8 @@
      </module>
      <module type="READ" name="Set" pos="0,0,0" publishUnderTab="Set">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -540,13 +658,8 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -574,9 +687,8 @@
      </module>
      <module type="READ" name="Rough" pos="-65,-50,0" publishUnderTab="Drawing">
       <options>
-       <disabled val="true"/>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -650,13 +762,8 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -684,8 +791,8 @@
      </module>
      <module type="READ" name="words" pos="0,0,0" publishUnderTab="words">
       <options>
-       <collapsed val="false"/>
        <version val="1"/>
+       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -759,13 +866,8 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
