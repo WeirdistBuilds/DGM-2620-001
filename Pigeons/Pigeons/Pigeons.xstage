@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project source="Harmony Essentials (HarmonyEssentials.exe) version 15.0.5 build 13929 2018-08-13 08:19:50" version="1505" build="13929" creator="harmony">
  <elements>
-  <element id="1" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="1" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+   </drawings>
+  </element>
   <element id="2" elementName="words" elementFolder="words" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -125,6 +131,16 @@
     <dwg name="119"/>
    </drawings>
   </element>
+  <element id="3" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="4" elementName="Set" elementFolder="Set" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -142,13 +158,15 @@
  <scenes>
   <scene name="Top" id="095d462670b00442" nbframes="311">
    <columns>
-    <column type="0" name="Rough" displayOrder="3" width="100" anonymous="true" id="1"/>
+    <column type="0" name="Rough" display="false" displayOrder="4" width="100" anonymous="true" id="1">
+     <elementSeq exposures="10" val="3" id="1"/>
+    </column>
     <column type="1" name="11SecClub_November_Competition" displayOrder="2" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
      <soundSequence startFrame="1" stopFrame="305" name="11SecClub_November_Competition.wav" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="12.689704895019531">
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
-    <column type="0" name="words" displayOrder="1" width="100" anonymous="true" id="2">
+    <column type="0" name="words" displayOrder="5" width="100" anonymous="true" id="2">
      <elementSeq exposures="11" val="1" id="2"/>
      <elementSeq exposures="12" val="2" id="2"/>
      <elementSeq exposures="13" val="3" id="2"/>
@@ -269,6 +287,12 @@
      <elementSeq exposures="276-280" val="118" id="2"/>
      <elementSeq exposures="281-285" val="119" id="2"/>
     </column>
+    <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="3">
+     <elementSeq exposures="10" val="1" id="3"/>
+    </column>
+    <column type="0" name="Set" displayOrder="3" width="100" anonymous="true" id="4">
+     <elementSeq exposures="1-33" val="1" id="4"/>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -328,6 +352,334 @@
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Drawing" pos="0,0,0" publishUnderTab="Drawing">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Drawing">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Set" pos="0,0,0" publishUnderTab="Set">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Set">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Rough" pos="-65,-50,0" publishUnderTab="Drawing">
+      <options>
+       <disabled val="true"/>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Rough">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
       </attrs>
      </module>
      <module type="READ" name="words" pos="0,0,0" publishUnderTab="words">
@@ -439,121 +791,14 @@
        <canAnimate val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Rough" pos="-65,-50,0" publishUnderTab="Drawing">
-      <options>
-       <collapsed val="false"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="Rough">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="true"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-      </attrs>
-     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="words" in="Composite" inport="1"/>
-     <link out="Rough" in="Composite" inport="0"/>
+     <link out="Drawing" in="Composite" inport="3"/>
+     <link out="Set" in="Composite" inport="2"/>
+     <link out="Rough" in="Composite" inport="1"/>
+     <link out="words" in="Composite" inport="0"/>
     </linkedlist>
    </rootgroup>
    <metas>

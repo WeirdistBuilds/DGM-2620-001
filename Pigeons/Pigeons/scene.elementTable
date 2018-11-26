@@ -2,4 +2,6 @@
 <elements source="Harmony Essentials (HarmonyEssentials.exe) version 15.0.5 build 13929 2018-08-13 08:19:50" version="1505" build="13929">
  <element id="1" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="words" elementFolder="words" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="3" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="4" elementName="Set" elementFolder="Set" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
