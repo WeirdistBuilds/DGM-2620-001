@@ -1,116 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.1 build 12463 2017-04-10 10:58:55" version="1401" build="12463" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 16.0.0 build 14155 2018-11-01 15:36:56" version="1600" build="14155" creator="harmony">
  <elements>
-  <element id="1" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
-   <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
-    <dwg name="3"/>
-    <dwg name="4"/>
-    <dwg name="5"/>
-    <dwg name="6"/>
-    <dwg name="7"/>
-    <dwg name="8"/>
-    <dwg name="9"/>
-    <dwg name="10"/>
-    <dwg name="11"/>
-    <dwg name="12"/>
-    <dwg name="13"/>
-    <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
-    <dwg name="17"/>
-    <dwg name="18"/>
-    <dwg name="19"/>
-    <dwg name="20"/>
-    <dwg name="21"/>
-    <dwg name="22"/>
-    <dwg name="23"/>
-    <dwg name="24"/>
-    <dwg name="25"/>
-    <dwg name="26"/>
-    <dwg name="27"/>
-    <dwg name="28"/>
-    <dwg name="29"/>
-    <dwg name="30"/>
-    <dwg name="31"/>
-    <dwg name="32"/>
-    <dwg name="33"/>
-    <dwg name="34"/>
-    <dwg name="35"/>
-    <dwg name="36"/>
-    <dwg name="37"/>
-    <dwg name="38"/>
-    <dwg name="39"/>
-    <dwg name="40"/>
-    <dwg name="41"/>
-    <dwg name="42"/>
-    <dwg name="43"/>
-    <dwg name="44"/>
-    <dwg name="45"/>
-    <dwg name="46"/>
-    <dwg name="47"/>
-    <dwg name="48"/>
-    <dwg name="49"/>
-    <dwg name="50"/>
-    <dwg name="51"/>
-    <dwg name="52"/>
-    <dwg name="53"/>
-    <dwg name="54"/>
-    <dwg name="55"/>
-    <dwg name="56"/>
-    <dwg name="57"/>
-    <dwg name="58"/>
-    <dwg name="59"/>
-    <dwg name="60"/>
-    <dwg name="61"/>
-    <dwg name="62"/>
-    <dwg name="63"/>
-    <dwg name="64"/>
-    <dwg name="65"/>
-    <dwg name="66"/>
-    <dwg name="67"/>
-    <dwg name="68"/>
-    <dwg name="69"/>
-    <dwg name="70"/>
-    <dwg name="71"/>
-    <dwg name="72"/>
-    <dwg name="73"/>
-    <dwg name="74"/>
-    <dwg name="75"/>
-    <dwg name="76"/>
-    <dwg name="77"/>
-    <dwg name="78"/>
-    <dwg name="79"/>
-    <dwg name="80"/>
-    <dwg name="81"/>
-    <dwg name="82"/>
-    <dwg name="83"/>
-    <dwg name="84"/>
-    <dwg name="85"/>
-    <dwg name="86"/>
-    <dwg name="87"/>
-    <dwg name="88"/>
-    <dwg name="89"/>
-    <dwg name="90"/>
-    <dwg name="91"/>
-    <dwg name="92"/>
-    <dwg name="93"/>
-    <dwg name="94"/>
-    <dwg name="95"/>
-    <dwg name="96"/>
-    <dwg name="97"/>
-    <dwg name="98"/>
-    <dwg name="99"/>
-    <dwg name="100"/>
-    <dwg name="101"/>
-    <dwg name="102"/>
-    <dwg name="103"/>
-    <dwg name="104"/>
-    <dwg name="105"/>
-    <dwg name="106"/>
-   </drawings>
-  </element>
   <element id="2" elementName="words" elementFolder="words" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -234,15 +124,39 @@
     <dwg name="119"/>
    </drawings>
   </element>
-  <element id="3" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+  <element id="3" elementName="Set" elementFolder="Set.3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
-  <element id="4" elementName="Set" elementFolder="Set" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+  <element id="5" elementName="setphotoshop" elementFolder="setphotoshop" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="6" elementName="Pigeon" elementFolder="Pigeon" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="7" elementName="Eyes" elementFolder="Eyes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="8" elementName="Mouth" elementFolder="Mouth" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="G"/>
+    <dwg name="A"/>
+    <dwg name="B"/>
+    <dwg name="C"/>
+    <dwg name="D"/>
+    <dwg name="E"/>
+    <dwg name="F"/>
+    <dwg name="8"/>
+    <dwg name="X"/>
    </drawings>
   </element>
  </elements>
@@ -252,6 +166,7 @@
   <framerate val="24"/>
   <zdragging val="true"/>
   <zOrderCompatibilityWith7_3 val="false"/>
+  <pixelPerModelUnitForVectorLayers val="0.28799999999999998"/>
   <pixelPerModelUnitForBitmapLayers val="0.28800000000000009"/>
   <canvasForBitmapLayers size="3840,2160"/>
   <cameraInSymbols val="true"/>
@@ -259,37 +174,317 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="095d462670b00442" nbframes="311">
+  <scene name="Top" id="095d462670b00442" nbframes="311" startFrame="1" stopFrame="311">
    <columns>
-    <column type="0" name="Rough" displayOrder="4" width="100" anonymous="true" id="1">
-     <elementSeq exposures="3" val="8" id="1"/>
-     <elementSeq exposures="4" val="7" id="1"/>
-     <elementSeq exposures="5" val="6" id="1"/>
-     <elementSeq exposures="7" val="57" id="1"/>
-     <elementSeq exposures="8" val="58" id="1"/>
-     <elementSeq exposures="9" val="59" id="1"/>
-     <elementSeq exposures="10" val="60" id="1"/>
-     <elementSeq exposures="11" val="61" id="1"/>
-     <elementSeq exposures="12" val="62" id="1"/>
-     <elementSeq exposures="13" val="63" id="1"/>
-     <elementSeq exposures="14" val="64" id="1"/>
-     <elementSeq exposures="16" val="82" id="1"/>
-     <elementSeq exposures="17" val="81" id="1"/>
-     <elementSeq exposures="18" val="80" id="1"/>
-     <elementSeq exposures="19" val="85" id="1"/>
-     <elementSeq exposures="20" val="83" id="1"/>
-     <elementSeq exposures="21" val="84" id="1"/>
-     <elementSeq exposures="24" val="66" id="1"/>
-     <elementSeq exposures="25,33" val="67" id="1"/>
-     <elementSeq exposures="26" val="75" id="1"/>
-     <elementSeq exposures="27,31-32" val="74" id="1"/>
-     <elementSeq exposures="28" val="77" id="1"/>
-     <elementSeq exposures="29" val="76" id="1"/>
-     <elementSeq exposures="30" val="78" id="1"/>
-    </column>
     <column type="1" name="11SecClub_November_Competition" displayOrder="2" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
      <soundSequence startFrame="1" stopFrame="305" name="11SecClub_November_Competition.wav" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="12.689704895019531">
-      <lipSync showSoundForm="0"/>
+      <lipSync showSoundForm="0">
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="71" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="69" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="68" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="66" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="67" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="70" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="65" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+       <lipSyncMouth mouthShape="88" mouthShapeName=""/>
+      </lipSync>
      </soundSequence>
     </column>
     <column type="0" name="words" displayOrder="5" width="100" anonymous="true" id="2">
@@ -413,9 +608,69 @@
      <elementSeq exposures="276-280" val="118" id="2"/>
      <elementSeq exposures="281-285" val="119" id="2"/>
     </column>
-    <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="3"/>
-    <column type="0" name="Set" displayOrder="3" width="100" anonymous="true" id="4">
-     <elementSeq exposures="1-33" val="1" id="4"/>
+    <column type="0" name="Set" displayOrder="6" width="100" anonymous="true" id="3">
+     <elementSeq exposures="1-311" val="3" id="3"/>
+    </column>
+    <column type="0" name="ATV-095F19C9C6C05AFD" display="false" displayOrder="7" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1-311" val="1" id="5"/>
+    </column>
+    <column type="3" name="ATV-095F19C9C6C0668D" displayOrder="8" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-095F19C9C6C0668E" displayOrder="9" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-095F19C9C6C0668F" displayOrder="10" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-095F19C9C6C06690" displayOrder="11" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1.3556246135449754" y="1.3556246135449754"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-095F19C9C6C06691" displayOrder="12" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1.3556246135449754" y="1.3556246135449754"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-095F19C9C6C06692" displayOrder="13" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-095F19C9C6C06693" displayOrder="14" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="0" name="ATV-095F19C9C6C47E38" displayOrder="4" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1-311" val="1" id="6"/>
+    </column>
+    <column type="0" name="ATV-095F19C9C6C4FA38" displayOrder="3" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1-311" val="1" id="7"/>
+    </column>
+    <column type="0" name="ATV-095F19C9C6C4FB48" displayOrder="1" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1-4,101-106,124,129,158-162" val="G" id="8"/>
+     <elementSeq exposures="5-9,44-60,97-100,109,133,136,138,145,163-178,183-188,192,217-219,254,257-260,266-267,281-283,287-303" val="A" id="8"/>
+     <elementSeq exposures="10-12,16-18,65-67,88-89,91-96,125,130-132,134-135,146-148,154-157,209-210,227-229,231-232,245-246,248-250,252-253,272-273,275-278" val="C" id="8"/>
+     <elementSeq exposures="13-14,19-20,22,33-37,61-63,78-79,85-87,113-115,119-123,137,143-144,150-153,189-191,193-195,199-200,235-237,241,261-263,268-270" val="D" id="8"/>
+     <elementSeq exposures="15,21,23-26,31-32,38-39,64,68-71,77,80-82,84,90,111-112,116-118,126-128,142,149,196-198,207-208,211-213,226,230,233-234,238-240,242-244,247,251,271,274" val="B" id="8"/>
+     <elementSeq exposures="27-30,110,201-206,255-256,264-265" val="E" id="8"/>
+     <elementSeq exposures="40-43,72-76,83,107-108,139-141,179-182,214-216,220-225,279-280,284-286" val="F" id="8"/>
+     <elementSeq exposures="304-311" val="X" id="8"/>
     </column>
    </columns>
    <options>
@@ -426,10 +681,10 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,0" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,5" publishUnderTab="Composite">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <compositeMode val="compositeBitmap"/>
@@ -445,21 +700,22 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,0" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,6" publishUnderTab="Display">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,0" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,7" publishUnderTab="Write">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <exportToMovie val="false"/>
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
+       <movieFormat val="com.toonboom.quicktime.legacy"/>
        <movieAudio/>
        <movieVideo/>
        <movieVideoaudio/>
@@ -477,10 +733,10 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="0,0,0" publishUnderTab="Drawing">
+     <module type="READ" name="Pigeon" pos="0,0,3" publishUnderTab="Pigeon">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -537,7 +793,7 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
-        <element col="Drawing">
+        <element col="ATV-095F19C9C6C47E38">
          <layer/>
         </element>
         <customName>
@@ -554,8 +810,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -579,220 +840,14 @@
        <alignmentRule val="CENTER_FIRST_PAGE"/>
        <morphingVelo val="0" defaultValue="0"/>
        <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Set" pos="0,0,0" publishUnderTab="Set">
+     <module type="READ" name="words" pos="0,0,9" publishUnderTab="words">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="Set">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="true"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-      </attrs>
-     </module>
-     <module type="READ" name="Rough" pos="-65,-50,0" publishUnderTab="Drawing">
-      <options>
        <version val="1"/>
-       <collapsed val="false"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="Rough">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="true"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-      </attrs>
-     </module>
-     <module type="READ" name="words" pos="0,0,0" publishUnderTab="words">
-      <options>
-       <version val="1"/>
-       <collapsed val="false"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -866,8 +921,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -891,16 +951,465 @@
        <alignmentRule val="CENTER_FIRST_PAGE"/>
        <morphingVelo val="0" defaultValue="0"/>
        <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Set" pos="11,0,8" publishUnderTab="Drawing">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Set">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="setphotoshop" pos="0,0,4" publishUnderTab="setphotoshop">
+      <options>
+       <disabled val="true"/>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0" col="ATV-095F19C9C6C0668D"/>
+        <y val="0" defaultValue="0" col="ATV-095F19C9C6C0668E"/>
+        <z val="0" defaultValue="0" col="ATV-095F19C9C6C0668F"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-095F19C9C6C06690"/>
+        <y val="1" defaultValue="1" col="ATV-095F19C9C6C06691"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-095F19C9C6C06692"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-095F19C9C6C06692"/>
+       <skew val="0" defaultValue="0" col="ATV-095F19C9C6C06693"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-095F19C9C6C05AFD">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="W"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIT"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Eyes" pos="0,0,2" publishUnderTab="Eyes">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-095F19C9C6C4FA38">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Mouth" pos="0,0,1" publishUnderTab="Mouth">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-095F19C9C6C4FB48">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
       </attrs>
      </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="Drawing" in="Composite" inport="3"/>
-     <link out="Set" in="Composite" inport="2"/>
-     <link out="Rough" in="Composite" inport="1"/>
-     <link out="words" in="Composite" inport="0"/>
+     <link out="Pigeon" in="Composite" inport="3"/>
+     <link out="words" in="Composite" inport="2"/>
+     <link out="Set" in="Composite" inport="1"/>
+     <link out="setphotoshop" in="Composite" inport="0"/>
+     <link out="Eyes" in="Composite" inport="4"/>
+     <link out="Mouth" in="Composite" inport="5"/>
     </linkedlist>
    </rootgroup>
    <metas>
