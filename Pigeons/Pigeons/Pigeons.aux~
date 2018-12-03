@@ -129,5 +129,21 @@
  <Element Name="setphotoshop" ID="5" Folder="setphotoshop">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Pigeon" ID="6" Folder="Pigeon"/>
+ <Element Name="Pigeon" ID="6" Folder="Pigeon">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Eyes" ID="7" Folder="Eyes">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Mouth" ID="8" Folder="Mouth">
+  <Drawing Key="" Name="G" Version="1"/>
+  <Drawing Key="" Name="A" Version="1"/>
+  <Drawing Key="" Name="B" Version="1"/>
+  <Drawing Key="" Name="C" Version="1"/>
+  <Drawing Key="" Name="D" Version="1"/>
+  <Drawing Key="" Name="E" Version="1"/>
+  <Drawing Key="" Name="F" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+  <Drawing Key="" Name="X" Version="1"/>
+ </Element>
 </SceneVersion>
