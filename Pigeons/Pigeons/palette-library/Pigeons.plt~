@@ -1,7 +1,28 @@
 ToonBoomAnimationInc PaletteFile 2
 Solid    Black                      0x095d462670b0044e   0   0   0 255
-Solid    White                      0x095d462670b00450 255 255 255 255
-Solid    Red                        0x095d462670b00452 255   0   0 255
-Solid    Green                      0x095d462670b00454   0 255   0 255
-Solid    Blue                       0x095d462670b00456   0   0 255 255
-Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
+Solid    HeadOutline                0x0962449d19b28e49  54  69  72 255
+Solid    Head                       0x0962449d19b296ab  79  94  99 255
+Solid    BeakOutline                0x0962449d19b29f16 248 122   2 255
+Solid    Beak                       0x0962449d19b2a77a 255 163   0 255
+Solid    Mouth                      0x0962449d19b43908 126   8   8 255
+Solid    BodyOutline                0x0962449d19b2afdf  92 104 116 255
+Solid    Body                       0x0962449d19b2b845 128 138 150 255
+Solid    RiceOutline                0x0962449d19b2c0ac 210 210 210 255
+Solid    Rice                       0x0962449d19b2c914 250 250 250 255
+Solid    FeetOutline                0x0962449d19b2d17d 223 120 113 255
+Solid    Feet                       0x0962449d19b2d9e7 250 153 146 255
+Solid    Street                     0x0962449d19b2e252  80  80  80 255
+Solid    Curb                       0x0962449d19b2f32b 120 120 120 255
+Solid    BagColor                   0x0962449d19b347a4 220 225 203 255
+Solid    BagInt                     0x096246f978ce5473 170 175 153 255
+Solid    RotanText                  0x0962449d19b3501c   0 105  51 255
+Solid    RotanLogo                  0x0962449d19b2eabe 176  42  62 255
+Solid    Car1                       0x0962449d19b2fb99 163 141 128 255
+Solid    Car2                       0x0962449d19b30404   0  47 131 255
+Solid    Car3                       0x0962449d19b30c78  95  64  47 255
+Solid    Car4                       0x0962449d19b314e9 200  22  45 255
+Solid    Tires                      0x0962449d19b31d5b  55  55  55 255
+Solid    Rims                       0x0962449d19b325ce 187 189 189 255
+Solid    YellowLine                 0x0962449d19b32e42 209 202   0 255
+Solid    Trunks                     0x0962449d19b336b7 114  88  49 255
+Solid    Trees                      0x0962449d19b33f2d  19 131  33 255
